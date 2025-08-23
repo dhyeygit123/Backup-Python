@@ -29,7 +29,7 @@ This project implements a backup system for Nextcloud with file versioning and s
 - Modify `config/selective_sync_config.json` to specify which folders to sync.
 - Adjust backup settings in `main.py` as needed.
 
-Screenshots
+## Screenshots
 
 <img width="2102" height="1191" alt="image" src="https://github.com/user-attachments/assets/ed295ca0-201d-49c8-998b-6078b788d2b3" />
 
